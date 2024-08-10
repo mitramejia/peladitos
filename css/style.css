@@ -247,4 +247,9 @@ textarea {
 
 body {
     padding: 24px;
+
+    img {
+        height: auto;
+        max-width: 100%;
+    }
 }
